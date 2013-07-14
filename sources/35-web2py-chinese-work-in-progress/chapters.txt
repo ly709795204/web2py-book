@@ -1,7 +1,7 @@
 00: 前言
 01: 引言
 02: Python语言
-03: Overview
+03: 概述
 04: The core
 05: The views
 06: The database abstraction layer
