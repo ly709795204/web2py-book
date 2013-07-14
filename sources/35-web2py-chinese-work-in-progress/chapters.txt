@@ -2,8 +2,8 @@
 01: 引言
 02: Python语言
 03: 概述
-04: The core
-05: The views
+04: 核心
+05: 视图
 06: The database abstraction layer
 07: Forms and validators
 08: Email and SMS
